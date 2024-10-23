@@ -1,1 +1,1 @@
-cabal M模擬器腳本
+# cabal M模擬器腳本
